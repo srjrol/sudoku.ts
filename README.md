@@ -67,8 +67,6 @@ To build the project, use your preferred TypeScript build tool (e.g. `tsc`). Mak
 
 This project is licensed under the MIT License.
 
-### File: `LICENSE`
-
 MIT License
 
 Copyright (c) 2025 Sean Jennings
